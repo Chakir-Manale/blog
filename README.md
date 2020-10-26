@@ -1,0 +1,2 @@
+# blog
+Blog_with_staticPages_and_uniqueUrls
